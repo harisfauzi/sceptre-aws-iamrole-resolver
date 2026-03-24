@@ -3,9 +3,6 @@
 import abc
 import six
 import logging
-import random
-import functools
-import time
 
 from botocore.exceptions import ClientError
 from sceptre.resolvers import Resolver
